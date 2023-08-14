@@ -13,7 +13,6 @@ export type Tpiece = {
 };
 
 export type Ttile = {
-    sprite: string;
     x: number;
     y: number;
     piece: Tpiece | null;
